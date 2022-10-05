@@ -129,7 +129,6 @@ app.post("/delete", (req, res) => {
 
 
 
-let x = 0;
 
 app.listen(3000, function () {
     console.log("Server running at port 3000");
